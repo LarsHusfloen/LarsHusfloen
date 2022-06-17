@@ -7,8 +7,8 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=LarsHusfloen&count_private=true&include_all_commits=true" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=LarsHusfloen&count_private=true&include_all_commits=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsHusfloen&layout=compact" />
   </a>  
 </div>
