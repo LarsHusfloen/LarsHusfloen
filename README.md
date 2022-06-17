@@ -1,5 +1,5 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/LarsHusfloen/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=LarsHusfloen&column=8&theme=dracula&no-frame=true"/>
 </a>
 
