@@ -7,5 +7,19 @@
 ---
 ### 📊 Github Stats
 
-[![Lars's github stats](https://github-readme-stats.vercel.app/api?username=LarsHusfloen&&count_private=true&include_all_commits=true&show_icons=true&show_owner=true&count_private=true")](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsHusfloen&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LarsHusfloen&count_private=true&include_all_commits=true&show_icons=true&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsHusfloen&layout=compact&langs_count=8" />
+</a>
+
+---
+### 📗 Repositories
+
+<a href="https://github.com/LarsHusfloen/code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsHusfloen&repo=code" />
+</a>
+<a href="https://github.com/LarsHusfloen/repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsHusfloen&repo=repo" />
+</a>
