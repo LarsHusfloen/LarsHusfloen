@@ -17,9 +17,9 @@
 ---
 ### 📗 Repositories
 
-<a href="https://github.com/LarsHusfloen/code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsHusfloen&repo=code" />
+<a href="https://github.com/LarsHusfloen/IS-302-Praksis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsHusfloen&repo=IS-302-Praksis" />
 </a>
-<a href="https://github.com/LarsHusfloen/IS-211">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsHusfloen&repo=IS-211" />
+<a href="https://github.com/LarsHusfloen/IS-310-Bachelor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsHusfloen&repo=IS-310-Bachelor" />
 </a>
